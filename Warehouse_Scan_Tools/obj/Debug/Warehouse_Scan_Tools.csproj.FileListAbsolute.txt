@@ -1,0 +1,10 @@
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\bin\Debug\Warehouse_Scan_Tools.exe.config
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\bin\Debug\Warehouse_Scan_Tools.exe
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\bin\Debug\Warehouse_Scan_Tools.pdb
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.csproj.AssemblyReference.cache
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.Form1.resources
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.Properties.Resources.resources
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.csproj.GenerateResource.cache
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.csproj.CoreCompileInputs.cache
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.exe
+C:\workspace\C#WorkSpace\Warehouse_Scan_Tools\Warehouse_Scan_Tools\obj\Debug\Warehouse_Scan_Tools.pdb
